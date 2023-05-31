@@ -23,5 +23,5 @@ for y in range(height):
         cell.fill = excel_color
 
 #REMEMBER TO CHANGE THIS \/
-output_path = "C:/Users/Aadvik Salwan/Downloads/Excel/Book.xlsx"
+output_path = "C:/Users/Draco/Downloads/Excel/Book.xlsx"
 workbook.save(output_path)
